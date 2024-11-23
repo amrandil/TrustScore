@@ -299,7 +299,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"trustScore2-2.sol": "ReputationStateMachine"
+			"trustScore.sol": "ReputationStateMachine"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -313,7 +313,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"trustScore2-2.sol": {
+		"trustScore.sol": {
 			"keccak256": "0x3f2400b03c40db64bddc480c9c995f401cf2ab4dcade7844661498a12dad9596",
 			"license": "MIT",
 			"urls": [
